@@ -1,4 +1,4 @@
-package Player_group;
+package PlayerGroup;
 
 public abstract class Player {
     private String name;

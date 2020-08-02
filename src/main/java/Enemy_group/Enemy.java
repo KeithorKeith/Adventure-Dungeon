@@ -1,7 +1,5 @@
 package Enemy_group;
 
-import Player_group.Player;
-
 public abstract class Enemy{
     private String name;
     private int hitPoints;

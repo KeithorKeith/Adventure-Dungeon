@@ -1,4 +1,4 @@
-package Player_group;
+package PlayerGroup;
 
 public class Knight extends Player{
     public Knight(String name, int hitPoints) {
