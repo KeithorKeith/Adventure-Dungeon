@@ -1,5 +1,7 @@
 package Interfaces;
 
+import Player_group.Player;
+
 public interface IWeapon {
-    public int attack();
+    public void attack(Player target);
 }
